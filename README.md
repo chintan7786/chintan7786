@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan7786&label=Profile%20views&color=0e75b6&style=flat" alt="chintan7786" /> </p>
 
+- 🔭 I’m currently working on **Portfolio website for startup**
+
 - 💬 Ask me about **Python and Full stack development**
 
 - 📫 How to reach me **davdachintan97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chintan-davda-a29759144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chintan-davda-a29759144/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davdachintan97@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davdachintan97@gmail.com" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9104760/chintan-davda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9104760/chintan-davda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davdachintan97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davdachintan97" height="30" width="40" /></a>
 </p>
